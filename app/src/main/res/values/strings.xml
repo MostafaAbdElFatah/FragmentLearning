@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmentLearning</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="names">
+        <item>Mohamed AbdElfatah</item>
+        <item>Khaled AbdElfatah</item>
+        <item>Omer AbdElfatah</item>
+        <item>Mostafa AbdElfatah</item>
+        <item>Ahemed Saad </item>
+        <item>Ali Saad</item>
+        <item>Hussain Saad</item>
+        <item>Mohamed Saad</item>
+    </string-array>
+</resources>
